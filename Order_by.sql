@@ -38,3 +38,4 @@ values ('Ivan Mota', 'ivan@gmail.com', '2003-03-11');
 delete from alunos where id = 7;
 select * from alunos;
 delete from cursos where id = 6;
+##
