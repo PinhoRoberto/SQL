@@ -26,4 +26,4 @@ case
 WHEN dept_id = 6 then salary * 10
 end as Bonus
 from employee_salary;
-
+--
